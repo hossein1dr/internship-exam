@@ -6,17 +6,18 @@ using System.Threading.Tasks;
 
 namespace exam_one
 {
-    class leftPointer
+    class Triangle
     {
         private int numberOfRow;
-        public leftPointer(int number)
+        public Triangle(int number)
         {
             numberOfRow = number;
         }
-        public void showLeftPointer()
+        public void LeftPointer()
         {
-            for (int i = 0; i < numberOfRow; i++)
+            for (int i = 0; i <= numberOfRow; i++)
             {
+                
 
                 for (int j = 0; j <= numberOfRow - i; j++)
                 {
@@ -33,8 +34,8 @@ namespace exam_one
         {
             Console.WriteLine("pls enter number");
             int x=int.Parse(Console.ReadLine());
-          leftPointer newleftPointer=new leftPointer(x);
-            newleftPointer.showLeftPointer();
+            Triangle newleftPointer =new Triangle(x);
+            newleftPointer.LeftPointer();
             
             Console.ReadKey();
 
