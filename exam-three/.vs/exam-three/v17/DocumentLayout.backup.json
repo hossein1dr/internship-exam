@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Hosein\\Desktop\\git-hub-project\\new\\internship-exam\\exam-three\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A701C80-73CE-421F-AE68-160AFCBD9CB9}|exam-three\\exam-three.csproj|c:\\users\\hosein\\desktop\\git-hub-project\\new\\internship-exam\\exam-three\\exam-three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A701C80-73CE-421F-AE68-160AFCBD9CB9}|exam-three\\exam-three.csproj|solutionrelative:exam-three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4224B5A-E25F-4437-BA00-D2D7E3AD51B0}|exam-three\\exam-three.csproj|c:\\users\\hosein\\desktop\\git-hub-project\\new\\internship-exam\\exam-three\\exam-three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4224B5A-E25F-4437-BA00-D2D7E3AD51B0}|exam-three\\exam-three.csproj|solutionrelative:exam-three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hosein\\Desktop\\git-hub-project\\new\\internship-exam\\exam-three\\exam-three\\Program.cs",
               "RelativeDocumentMoniker": "exam-three\\Program.cs",
-              "ToolTip": "C:\\Users\\Hosein\\Desktop\\git-hub-project\\new\\internship-exam\\exam-three\\exam-three\\Program.cs",
-              "RelativeToolTip": "exam-three\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hosein\\Desktop\\git-hub-project\\new\\internship-exam\\exam-three\\exam-three\\Program.cs*",
+              "RelativeToolTip": "exam-three\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T08:49:31.147Z",
+              "WhenOpened": "2025-08-12T09:28:00.739Z",
               "EditorCaption": ""
             }
           ]
